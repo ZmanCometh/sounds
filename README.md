@@ -32,7 +32,7 @@ npm start
 - copy the url to the raw content of the content pack you've created, e.g.  
 `https://account.altvr.com/api/content_packs/2043495985698571086/raw`
 - pass the url of the content pack as a query parameter, e.g.  
-`wss://mydoorbell.herokuapp.com/?url=https://account.altvr.com/api/content_packs/2043495985698571086/raw`
+`wss://mydoorbell.herokuapp.com?url=https://account.altvr.com/api/content_packs/2043495985698571086/raw`
 
 # Customization
 ## How to customize your doorbell

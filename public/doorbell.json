@@ -1,0 +1,9 @@
+{
+	"doorbell": {
+		"url": "doorbell.ogg",
+		"language": "ja",
+		"duration": 3,
+		"volume": 15,
+		"rolloff": 100
+	}
+}

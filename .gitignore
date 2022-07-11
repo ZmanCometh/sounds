@@ -1,0 +1,5 @@
+build/
+node_modules/
+public/tts/*.mp3
+public/tts/*.ogg
+tsconfig.tsbuildinfo

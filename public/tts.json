@@ -1,0 +1,20 @@
+{
+        "buttons": [
+                {
+                        "name": "ondemand",
+                        "ondemand": true,
+                        "resourceId": "artifact:1579238678213952234",
+                        "transform": {
+                                "position": {
+                                        "x": -1, "y": 0, "z": 0
+                                },
+                                "rotation": {
+                                        "x": 0, "y": 0, "z": 0
+                                }
+                        },
+                        "dimensions": {
+                                "width": 0.1, "height": 0.1, "depth": 0.1
+                        }
+                }
+        ]
+}

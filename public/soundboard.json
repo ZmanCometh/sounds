@@ -1,0 +1,56 @@
+{
+        "soundboard": {
+                "transform": {
+                        "position": { "x": 0, "y": 0, "z": 0 }
+                },
+                "sounds": [
+                        {
+                                "name": "Okay",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/my-song-2_2.ogg",
+                                "duration": 0.816979,
+                                "volume": 10
+                        },
+                        {
+                                "name": "BRUH",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/movie_1.ogg",
+                                "duration": 0.816979,
+                                "volume": 10
+                        },
+                        {
+                                "name": "MLG",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/mlg-airhorn.ogg",
+                                "duration": 2.965986,
+                                "volume": 10
+                        },
+                        {
+                                "name": "ROBLOX oof",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/roblox-death-sound_1.ogg",
+                                "duration": 1
+                        },
+                        {
+                                "name": "Inception",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/inceptionbutton.ogg",
+                                "duration": 3.030204
+                        },
+                        {
+                                "name": "YEAH",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/sound-9______.ogg",
+                                "duration": 5.642449
+                        },
+                        {
+                                "name": "pornhub",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/pornhub-community-intro.ogg",
+                                "duration": 3.005147
+                        },
+                        {
+                                "name": "Windows",
+                                "uri": "https://github.com/illuminati360/alt-memes-data/raw/master/sounds/erro.ogg",
+                                "duration": 0.992653
+                        }
+                ],
+                "layout": {
+                        "rows": 5,
+                        "columns": 5
+                }
+        }
+}

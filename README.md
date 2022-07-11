@@ -25,7 +25,7 @@ npm start
 	- click the "view app" button and copy the url of the new webpage, e.g.  
 	`https://mydoorbell.herokuapp.com/`
 	- replace "https" in the copied url to "ws" or "wss" and remove the trailing slash, e.g.  
-	`wss://mydoorbell.herokuapp.com/`
+	`wss://mydoorbell.herokuapp.com`
 
 # Usage
 - go to [this page](https://account.altvr.com/content_packs/new), and create your own content pack
